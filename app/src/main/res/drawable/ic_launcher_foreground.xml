@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open Holy Scripture Book with golden light -->
+    <!-- Left page -->
+    <path
+        android:fillColor="#F4E9D8"
+        android:pathData="M30,36 C30,36 38,34 52,38 L52,72 C38,68 30,70 30,70 Z" />
+    <!-- Right page -->
+    <path
+        android:fillColor="#FFFDF7"
+        android:pathData="M78,36 C78,36 70,34 56,38 L56,72 C70,68 78,70 78,70 Z" />
+    <!-- Spine and ribbon bookmark -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M52,38 L56,38 L56,73 L52,73 Z" />
+    <!-- Gold ribbon falling down -->
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M52.5,42 L55.5,42 L55.5,78 L54,76 L52.5,78 Z" />
+    <!-- Pathway / radiant ray upward from book -->
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M54,24 L56,30 L62,30 L57,34 L59,40 L54,36 L49,40 L51,34 L46,30 L52,30 Z" />
+    <!-- Modern walking step accents -->
+    <path
+        android:fillColor="#D8A951"
+        android:pathData="M36,44 L48,46 L48,48 L36,46 Z M36,52 L48,54 L48,56 L36,54 Z M60,46 L72,44 L72,46 L60,48 Z M60,54 L72,52 L72,54 L60,56 Z" />
+</vector>

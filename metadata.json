@@ -1,0 +1,6 @@
+{
+  "name": "WordWalk",
+  "description": "Personalized Bible-learning and daily spiritual habit app for beginners with Sinhala and English interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
